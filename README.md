@@ -1,1 +1,1 @@
-https://github.com/yandex-praktikum/ono-tebe-nado.git
+https://github.com/dshlg/ono-tebe-nado.git
