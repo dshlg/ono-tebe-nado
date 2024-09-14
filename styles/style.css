@@ -107,7 +107,7 @@
 
 .aligned-text_center {
     padding-left: 336px;
-  }
+}
 
 .aligned-text_right {
     padding-left: 635px;
@@ -159,8 +159,6 @@
 }
 
 .lots__heading {
-
-
     padding-bottom: 27px;
     font-size: 40px;
     font-weight: 700px;
@@ -188,16 +186,12 @@
     justify-content: space-between;
     width: 334px;
     min-height: 563px;
-
     font-size: 20px;
     font-weight: 400;
     position: relative;
-
     background-repeat: no-repeat;
     background-position: top;
-    background-size: cover;
-
- 
+    background-size: cover; 
 }
 
 .card__title {
